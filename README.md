@@ -1,31 +1,30 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [RICE CALCULATOR] 🎯
+# RICE CALCULATOR 🎯
 
 ## Basic Details
-### Team Name: [COBRA]
+### Team Name: COBRA
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Sreenanda Sunil] - [DCS,CUSAT]
-- Member 3: [Anugraha Anil] - [DCS,CUSAT]
+- Member 1: Sreenanda Sunil - DCS,CUSAT
+- Member 2: Anugraha Anil - DCS,CUSAT
 
 ### Project Description
-["The Rice Idli Calculator is a hilariously pointless yet oddly satisfying tool that estimates how many rice grains make up your idli. Just input the idli’s weight, rice ratio, and grain size — and watch the magic happen.]
+The Rice Idli Calculator is a hilariously pointless,simple yet oddly satisfying tool that estimates how many rice grains make up your idli. Just input the idli’s weight, rice ratio, and grain size — and watch the magic happen.
 
 ### The Problem (that doesn't exist)
-[Ever stared at an idli and wondered, ‘How many rice grains gave their life for this?’ No? Well, too bad]
+Ever stared at an idli and wondered, ‘How many rice grains gave their life for this?’ No? Well, too bad
 
 ### The Solution (that nobody asked for)
-[To find out how many rice grains gave their life for the wonderful breakfast we eat every morning , We created the rice calculator or AKA The idli Rice Calculator]
+To find out how many rice grains gave their life for the wonderful breakfast we eat every morning , We created the rice calculator or AKA The idli Rice Calculator
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages - Python,Java Script,CSS]
-- [Tools used - Chat GPT , Deepseek , Google ]
+Languages - Python,Java Script,CSS
+Tools used - Chat GPT , Deepseek , Google 
 
 # Screenshots (Add at least 3)
 Coding Rice Calculator
@@ -38,8 +37,8 @@ Rice Calculator Website code
 Rice Calculator
 
 ## Team Contributions
-- [Anugraha Anil]: [Laptop,Support to Chat GPT,Emotional Support,Ideas]
-- [Sreenanda Sunil]: [Coding, Emotional support to deepseek,Ideas]
+- Anugraha Anil: Laptop,Coding,Ideas
+- Sreenanda Sunil:Coding,Ideas
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
