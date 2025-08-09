@@ -36,6 +36,12 @@ Rice Calculator Website code
 <img width="760" height="917" alt="image" src="https://github.com/user-attachments/assets/5479e2bd-f587-495b-9e9a-e16ac27a6b50" />
 Rice Calculator
 
+
+
+https://github.com/user-attachments/assets/db28cc21-580b-4ec1-b909-98e338ca1525
+
+
+
 ## Team Contributions
 - Anugraha Anil: Laptop,Coding,Ideas
 - Sreenanda Sunil:Coding,Ideas
