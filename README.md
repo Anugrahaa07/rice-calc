@@ -3,94 +3,43 @@
 
 # [RICE CALCULATOR] 🎯
 
-
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [COBRA]
 
 
 ### Team Members
 - Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 2: [Sreenanda Sunil] - [DCS,CUSAT]
+- Member 3: [Anugraha Anil] - [DCS,CUSAT]
 
 ### Project Description
-[2-3 lines about what your project does]
+["The Rice Idli Calculator is a hilariously pointless yet oddly satisfying tool that estimates how many rice grains make up your idli. Just input the idli’s weight, rice ratio, and grain size — and watch the magic happen.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[Ever stared at an idli and wondered, ‘How many rice grains gave their life for this?’ No? Well, too bad]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[To find out how many rice grains gave their life for the wonderful breakfast we eat every morning , We created the rice calculator or AKA The idli Rice Calculator]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
+- [Languages - Python,Java Script,CSS]
+- [Tools used - Chat GPT , Deepseek , Google ]
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+Coding Rice Calculator
+<img width="957" height="473" alt="image" src="https://github.com/user-attachments/assets/ae67617e-18bc-4d60-b5cb-596063cfe977" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="1065" height="886" alt="image" src="https://github.com/user-attachments/assets/2089a654-547f-46f7-bac7-04af5241c74a" />
+Rice Calculator Website code
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
+<img width="760" height="917" alt="image" src="https://github.com/user-attachments/assets/5479e2bd-f587-495b-9e9a-e16ac27a6b50" />
+Rice Calculator
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Anugraha Anil]: [Laptop,Support to Chat GPT,Emotional Support,Ideas]
+- [Sreenanda Sunil]: [Coding, Emotional support to deepseek,Ideas]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
